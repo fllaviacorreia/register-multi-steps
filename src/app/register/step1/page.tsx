@@ -1,4 +1,3 @@
-// app/cadastro/step1.js
 'use client';
 import { useRegister } from '@/context/registerContext';
 import { step1Schema } from '@/validators/register';
